@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2600F7&random=false&width=435&lines=%D8%A7%D9%8E%D9%84%D8%B3%D9%8E%D9%84%D8%A7%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85+%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F+%D8%A7%D9%8E%D9%84%D9%84%D9%87%D9%90+%D9%88%D9%8E%D8%A8%D9%8E%D8%B1%D9%8E%D9%83%D8%A7%D8%AA%D9%8F%D9%87%D9%8F;Muhammad+Imran;front+end+developer%E2%80%8E)](https://git.io/typing-svg)
+
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -11,9 +13,16 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/xdevimran/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/xdevimran"
+  target="_blank"
+  ><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href="https://twitter.com/xdevimran"
+  target="_blank"
+  >
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
 ###
@@ -22,9 +31,7 @@
 
 ### 👩‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">I'm Muhammad Imran, from CTG, Feni, Bangladesh.<br><br>- 🔭 I’m working as ... (You can fill in your current or previous role)<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- ⚡ In my free time, I read books and the Quran.</p>
+<p align="left">I'm Muhammad Imran, from CTG, Feni, Bangladesh.<br><br>- 🔭 I’m currently not working and free to take on new opportunities.<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- ⚡ In my free time, I read books and the Quran.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -65,14 +72,21 @@
 
 ###
 
-<h3 align="left">Socials</h3>
+<h3 align="left">Reach Me Out</h3>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/xdevimran/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/xdevimran"
+  target="_blank"
+  ><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href="https://twitter.com/xdevimran"
+  target="_blank"
+  >
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
 ###
