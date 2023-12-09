@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2600F7&random=false&width=435&lines=%D8%A7%D9%8E%D9%84%D8%B3%D9%8E%D9%84%D8%A7%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85+%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F+%D8%A7%D9%8E%D9%84%D9%84%D9%87%D9%90+%D9%88%D9%8E%D8%A8%D9%8E%D8%B1%D9%8E%D9%83%D8%A7%D8%AA%D9%8F%D9%87%D9%8F;Muhammad+Imran;front+end+developer%E2%80%8E)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="150" src="https://pbs.twimg.com/profile_banners/1650087334824783875/1686761680/1500x500"  />
+  <img  src="https://i.ibb.co/wNTFvpj/Freelancer.png"  />
 </div>
 
 ###
