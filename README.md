@@ -31,7 +31,7 @@
 
 ### 👩‍💻 About Me
 
-<p align="left">I'm Muhammad Imran, from CTG, Feni, Bangladesh.<br><br>- 🔭 I’m currently not working and free to take on new opportunities.<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- ⚡ In my free time, I read books and the Quran.</p>
+<p align="left">Hi there! My name is Imran and I'm a front-end developer based in Bangladesh. I specialize in HTML, CSS, and JavaScript and I am also proficient in React.js<br><br>- 🔭 I’m currently not working and free to take on new opportunities.<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- ⚡ In my free time, I read books and the Quran.</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
